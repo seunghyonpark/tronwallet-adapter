@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React, { useState } from 'react';
 import { useWallet } from '@tronweb3/tronwallet-adapter-react-hooks';
 import {

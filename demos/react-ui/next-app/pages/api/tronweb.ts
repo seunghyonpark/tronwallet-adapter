@@ -8,4 +8,3 @@ export const tronWeb: any = new TronWeb({
 if (typeof window !== 'undefined') {
     (window as any).tronWeb1 = tronWeb;
 }
-
